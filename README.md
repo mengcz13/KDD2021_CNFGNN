@@ -14,7 +14,7 @@ bash install.sh
 
 ### Data
 
-Download `data.tar.bz2`. Then extract it to the root directory of the repository:
+Download [`data.tar.bz2`](https://zenodo.org/record/4521262/files/data.tar.bz2?download=1). Then extract it to the root directory of the repository:
 
 ```bash
 tar -xjf data.tar.bz2
