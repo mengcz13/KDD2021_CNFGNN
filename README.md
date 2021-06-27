@@ -1,6 +1,6 @@
 # Cross-Node Federated Graph Neural Network for Spatio-Temporal Data Modeling
 
-This repository is the official PyTorch implementation of "Cross-Node Federated Graph Neural Network for Spatio-Temporal Modeling".
+This repository is the official PyTorch implementation of "Cross-Node Federated Graph Neural Network for Spatio-Temporal Modeling". [\[arXiv\]](https://arxiv.org/abs/2106.05223)
 
 ## Setup
 
